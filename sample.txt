@@ -1,3 +1,5 @@
 This is a sample file.
 This is just for learning purpose
 This is a text file.
+
+Added a new line in this sample file
